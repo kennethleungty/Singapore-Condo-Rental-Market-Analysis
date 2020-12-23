@@ -7,6 +7,11 @@ __pycache__/
 *.xlsx
 *.json
 
+# Hide certain experimental notebooks
+Part 3B - Rental Price Prediction (With Fewer Features).ipynb
+Part 3C - Rental Price Prediction (Remove Several Amenities).ipynb
+
+
 # C extensions
 *.so
 
