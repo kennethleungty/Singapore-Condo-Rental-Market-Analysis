@@ -10,6 +10,7 @@ __pycache__/
 # Hide certain experimental notebooks
 Part 3B - Rental Price Prediction (With Fewer Features).ipynb
 Part 3C - Rental Price Prediction (Remove Several Amenities).ipynb
+Part 3D - Rental Price Prediction (No One-Hot Encoding).ipynb
 
 
 # C extensions
