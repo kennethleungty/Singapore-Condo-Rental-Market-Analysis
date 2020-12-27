@@ -1,4 +1,4 @@
-# Singapore Condo Rental Prices - From Data Curation to Prediction
+# Singapore Condo Rental Prices - From Data Acquisition to Prediction
 
 ### Motivation
 - There are plenty of write-ups on predicting sale price of public housing properties (especially the Boston public housing dataset). However, I have not really come across any projects describing the private property market.
