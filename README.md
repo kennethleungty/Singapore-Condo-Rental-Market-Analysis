@@ -1,6 +1,6 @@
 # Singapore Condo Rental Prices - From Data Acquisition to Prediction
 
-Link to Medium article (Part 1): https://medium.com/swlh/web-scrapping-and-data-analysis-of-condominium-rental-market-in-singapore-da5265c71d19
+Link to Medium article (Part 1): https://medium.com/swlh/web-scrapping-and-data-analysis-of-condominium-rental-market-in-singapore-da5265c71d19  
 Link to Medium article (Part 2): Coming soon (Feb 2021)
 
 ### Motivation
