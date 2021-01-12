@@ -1,6 +1,7 @@
 # Singapore Condo Rental Prices - From Data Acquisition to Prediction
 
-Link to Medium article: Coming soon (January 2021)
+Link to Medium article (Part 1): https://medium.com/swlh/web-scrapping-and-data-analysis-of-condominium-rental-market-in-singapore-da5265c71d19
+Link to Medium article (Part 2): Coming soon (Feb 2021)
 
 ### Motivation
 - There are plenty of write-ups on predicting sale price of public housing properties (especially the Boston public housing dataset). However, I have not really come across any projects describing the private property market.
