@@ -6,6 +6,7 @@ __pycache__/
 # All datasets
 *.xlsx
 *.json
+*.csv
 
 # Images and Powerpoint
 *.pptx
