@@ -1,7 +1,7 @@
 # Singapore Condo Rental Market Analysis - From Data Acquisition to Prediction
 
 Link to Medium article (Part 1 - Web Scraping and EDA): https://medium.com/swlh/web-scrapping-and-data-analysis-of-condominium-rental-market-in-singapore-da5265c71d19  
-Link to Medium article (Part 2 - Prediction with Ensemble Regressors and MLR): Coming soon (Feb 2021)
+Link to Medium article (Part 2 - Prediction with Ensemble Regressors and MLR): https://medium.com/datadriveninvestor/using-ensemble-regressors-to-predict-condo-rental-prices-47eb7c3d5cd9
 
 ### Motivation
 - There are plenty of analytical write-ups on predicting prices of public housing sales (especially the Boston public housing dataset). However, I have not really come across any projects describing the private property market.
